@@ -1,1 +1,603 @@
-
+[
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#80BB1CD4",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "VIVO SSH-1",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[delay_split]PATCH http://portal.vivo.com.br/ HTTP/1.1[crlf]Host: portal.vivo.com.br[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:49",
+        "description": "SECURITY SSH",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/lS0bHrX.png",
+        "id": 67073,
+        "mode": "SSH_DIRECT",
+        "name": "SECURITY SSH VIVO 01",
+        "proxy": {
+            "host": "",
+            "port": 80
+        },
+        "server": {
+            "host": "Br.owerssh.shop",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:05:46",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#80BB1CD4",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "SECURITY VIVO SSH 01",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: aws.amazon.com[lf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "SECURITY SSH",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/lS0bHrX.png",
+        "id": 67075,
+        "mode": "SSH_PROXY",
+        "name": "SECURITY VIVO SSH 02",
+        "proxy": {
+            "host": "Br.owerssh.shop",
+            "port": 80
+        },
+        "server": {
+            "host": "Br.owerssh.shop",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+},
+{
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#80BB1CD4",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "SECURITY VIVO SSH 01",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "SECURITY SSH",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/lS0bHrX.png",
+        "id": 67076,
+        "mode": "SSH_PROXY",
+        "name": "SECURITY VIVO SSH 03",
+        "proxy": {
+            "host": "Br.owerssh.shop",
+            "port": 80
+        },
+        "server": {
+            "host": "Br.owerssh.shop",
+            "port": 80
+        },
+        "sorter": 3,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+},
+{
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#80BB1CD4",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "SECURITY VIVO SSH 01",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: aws.amazon.com[lf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "SECURITY SSH",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/lS0bHrX.png",
+        "id": 67083,
+        "mode": "SSH_PROXY",
+        "name": "SECURITY VIVO SSH 04",
+        "proxy": {
+            "host": "Br.owerssh.shop",
+            "port": 80
+        },
+        "server": {
+            "host": "Br.owerssh.shop",
+            "port": 80
+        },
+        "sorter": 4,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+},
+{
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#80BB1CD4",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "SECURITY VIVO SSH 01",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: aws.amazon.com[lf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "SECURITY SSH",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/lS0bHrX.png",
+        "id": 67086,
+        "mode": "SSH_PROXY",
+        "name": "SECURITY VIVO SSH 04",
+        "proxy": {
+            "host": "Br.owerssh.shop",
+            "port": 80
+        },
+        "server": {
+            "host": "Br.owerssh.shop",
+            "port": 80
+        },
+        "sorter": 4,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+},
+{
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#A5212321",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5468,
+            "name": "VIVO EASY SSH ",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5468,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: rn10s.shop[split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "PLANO EASY",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/guwI9q7.png",
+        "id": 67077,
+        "mode": "SSH_DIRECT",
+        "name": "VIVO EASY SSH",
+        "proxy": {
+            "host": "",
+            "port": 80
+        },
+        "server": {
+            "host": "104.18.7.41",
+            "port": 80
+        },
+        "sorter": 4,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+},
+{
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#A5212321",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5468,
+            "name": "VIVO EASY SSH ",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5468,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: rn10s.shop[split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "PLANO EASY",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/guwI9q7.png",
+        "id": 67080,
+        "mode": "SSH_DIRECT",
+        "name": "VIVO EASY SSH",
+        "proxy": {
+            "host": "",
+            "port": 80
+        },
+        "server": {
+            "host": "104.18.7.41",
+            "port": 80
+        },
+        "sorter": 4,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+},
+{
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#A5212321",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5468,
+            "name": "VIVO EASY SSH ",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5468,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: rn10s.shop[split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "PLANO EASY",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/guwI9q7.png",
+        "id": 67081,
+        "mode": "SSH_DIRECT",
+        "name": "VIVO EASY SSH",
+        "proxy": {
+            "host": "",
+            "port": 80
+        },
+        "server": {
+            "host": "104.18.7.41",
+            "port": 80
+        },
+        "sorter": 4,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+},
+{
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#A34051B5",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5469,
+            "name": "TIM SSH DIRECT SSH 1",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5469,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "CONNECT / HTTP/1.9[crlf]host: appdev.c6bank.app[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]Host: Br.owerssh.shop[crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "TIM SSH",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/FG198ir.png",
+        "id": 67078,
+        "mode": "SSH_DIRECT",
+        "name": "TIM SSH",
+        "proxy": {
+            "host": "",
+            "port": 80
+        },
+        "server": {
+            "host": "104.16.53.111",
+            "port": 80
+        },
+        "sorter": 5,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+},
+{
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#A34051B5",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5469,
+            "name": "TIM SSH DIRECT",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5469,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "CONNECT / HTTP/1.9[crlf]host: appdev.c6bank.app[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]Host: Br.owerssh.shop[crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "TIM SSH",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/FG198ir.png",
+        "id": 67079,
+        "mode": "SSH_DIRECT",
+        "name": "TIM SSH",
+        "proxy": {
+            "host": "",
+            "port": 80
+        },
+        "server": {
+            "host": "104.16.53.111",
+            "port": 80
+        },
+        "sorter": 5,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+},
+{
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#A34051B5",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5469,
+            "name": "TIM SSH DIRECT SSH 2",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5469,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "CONNECT / HTTP/1.9[crlf]host: appdev.c6bank.app[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]Host: Br.owerssh.shop[crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "TIM SSH",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/FG198ir.png",
+        "id": 67084,
+        "mode": "SSH_DIRECT",
+        "name": "TIM SSH",
+        "proxy": {
+            "host": "",
+            "port": 80
+        },
+        "server": {
+            "host": "104.16.53.111",
+            "port": 80
+        },
+        "sorter": 5,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+},
+{
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#A34051B5",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5469,
+            "name": "TIM SSH DIRECT SSH 1",
+            "sorter": 1,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5469,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "CONNECT / HTTP/1.9[crlf]host: appdev.c6bank.app[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]Host: Br.owerssh.shop[crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]"
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "TIM SSH",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.imgur.com/FG198ir.png",
+        "id": 67085,
+        "mode": "SSH_DIRECT",
+        "name": "TIM SSH",
+        "proxy": {
+            "host": "",
+            "port": 80
+        },
+        "server": {
+            "host": "104.16.53.111",
+            "port": 80
+        },
+        "sorter": 5,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://209.14.70.161:5656",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+} 
+]

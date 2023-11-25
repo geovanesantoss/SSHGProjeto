@@ -9,7 +9,7 @@
             "color": "#80BB1CD4",
             "created_at": "2023-07-24 16:38:13",
             "id": 5467,
-            "name": "VIVO SSH-1",
+            "name": "VIVO SSH 1",
             "sorter": 1,
             "status": "ACTIVE",
             "updated_at": "2023-07-24 16:38:13",
@@ -18,12 +18,12 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "[delay_split]PATCH http://portal.vivo.com.br/ HTTP/1.1[crlf]Host: portal.vivo.com.br[crlf][crlf]",
+            "payload": "[[split][lf]PUT / HTTP/1.1[crlf]Host: gratis.vivo-bemobi.com[crlf]Upgrade: WebSocketExtensions[crlf]Connection: [crlf][crlf]",
             "sni": ""
         },
         "config_v2ray": null,
         "created_at": "2023-07-24 18:20:49",
-        "description": "SECURITY SSH",
+        "description": "SECURITY",
         "dns_server": {
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"

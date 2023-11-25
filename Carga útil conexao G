@@ -142,7 +142,7 @@
             "port": 80
         },
         "server": {
-            "host": "Br.owerssh.shop#br.owerssh.shop",
+            "host": "Br.owerssh.shop#209.14.70.16",
             "port": 80
         },
         "sorter": 26,
@@ -297,7 +297,7 @@
         "mode": "SSH_PROXY",
         "name": "✅ VIVO CLOUDFLARE [1]",
         "proxy": {
-            "host": "104.24.10.16#aceitedigital.vivo.com.br.cdn.cloudflare.net#104.18.37.248#104.18.23.26#151.101.22.137#104.17.74.206#104.18.43.147#104.16.53.111#104.18.37.84#104.18.6.80#partnerhelp.netflixstudios.com#104.16.53.111#unpkg.com#104.18.6.41#playwaze.com#ftp.chillwaze.com#npfp.netflixstudios.com#escolas.playwaze.com",
+            "host": "104.24.10.16#aceitedigital.vivo.com.br.cdn.cloudflare.net#104.18.37.248#Br.owerssh.shop#151.101.22.137#104.17.74.206#104.18.43.147#104.16.53.111#104.18.37.84#104.18.6.80#partnerhelp.netflixstudios.com#104.16.53.111#unpkg.com#104.18.6.41#playwaze.com#ftp.chillwaze.com#npfp.netflixstudios.com#escolas.playwaze.com",
             "port": 80
         },
         "server": {

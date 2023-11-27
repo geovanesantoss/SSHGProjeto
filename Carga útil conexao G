@@ -37,7 +37,7 @@
             "port": 80
         },
         "server": {
-            "host": "Br.owerssh.shop#br.owerssh.shop",
+            "host": "br.owerssh.shop#br.owerssh.shop",
             "port": 80
         },
         "sorter": 21,
@@ -89,7 +89,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 80
         },
         "sorter": 10,
@@ -102,7 +102,7 @@
         "updated_at": "2023-11-24 23:19:37",
         "url_check_user": "http://209.14.70.161:5000/checkUser",
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
-   
+    
     },
     {
         "auth": {
@@ -142,7 +142,7 @@
             "port": 80
         },
         "server": {
-            "host": "Br.owerssh.shop#br.owerssh.shop",
+            "host": "br.owerssh.shop#br.owerssh.shop",
             "port": 80
         },
         "sorter": 26,
@@ -246,7 +246,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 80
         },
         "sorter": 30,
@@ -259,11 +259,9 @@
         "updated_at": "2023-11-24 23:18:47",
         "url_check_user": "http://209.14.70.161:5000/checkUser",
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
-    
+  
     },
     {
-   
-  
         "auth": {
             "password": null,
             "username": null,
@@ -301,7 +299,7 @@
             "port": 80
         },
         "server": {
-            "host": "Br.owerssh.shop#br.owerssh.shop",
+            "host": "Br.owerssh.shop",
             "port": 80
         },
         "sorter": -6,
@@ -312,7 +310,7 @@
             7200
         ],
         "updated_at": "2023-11-21 15:33:19",
-        "url_check_user": "http://144.22.198.190:5000",
+        "url_check_user": "http://209.14.70.161:5000/checkUser",
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
     },
     {
@@ -353,7 +351,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 443
         },
         "sorter": 84,
@@ -405,7 +403,7 @@
             "port": 80
         },
         "server": {
-            "host": "Br.owerssh.shop#br.owerssh.shop",
+            "host": "Br.owerssh.shop",
             "port": 80
         },
         "sorter": 20,
@@ -457,7 +455,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 443
         },
         "sorter": 88,
@@ -510,7 +508,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 8080
         },
         "sorter": 11,
@@ -562,7 +560,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 8080
         },
         "sorter": 12,
@@ -614,7 +612,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 8080
         },
         "sorter": 13,
@@ -627,7 +625,7 @@
         "updated_at": "2023-11-24 23:19:28",
         "url_check_user": "http://209.14.70.161:5000/checkUser",
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
-    
+   
     },
     {
         "auth": {
@@ -667,7 +665,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 8080
         },
         "sorter": 14,
@@ -718,7 +716,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161",
+            "host": "191.96.81.11",
             "port": 80
         },
         "sorter": 41,
@@ -770,7 +768,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 80
         },
         "sorter": 50,
@@ -822,7 +820,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 80
         },
         "sorter": 54,
@@ -874,7 +872,7 @@
             "port": null
         },
         "server": {
-            "host": "209.14.70.161#209.14.70.161",
+            "host": "191.96.81.11#209.14.84.59",
             "port": 80
         },
         "sorter": 66,
@@ -885,9 +883,9 @@
             7200
         ],
         "updated_at": "2023-11-24 23:18:35",
-        "url_check_user": "http://209.14.70.161:5000",
+        "url_check_user": "http://209.14.70.161:5000/checkUser",
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
-    
+   
    
     },
     {
@@ -928,7 +926,7 @@
             "port": 80
         },
         "server": {
-            "host": "Br.owerssh.shop#br.owerssh.shop",
+            "host": "Br.owerssh.shop",
             "port": 80
         },
         "sorter": 18,
@@ -941,11 +939,9 @@
         "updated_at": "2023-11-24 23:19:09",
         "url_check_user": "http://209.14.70.161:5000/checkUser",
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
-    
+   
     },
     {
-    
-    
         "auth": {
             "password": null,
             "username": null,
@@ -983,7 +979,7 @@
             "port": 80
         },
         "server": {
-            "host": "Br.owerssh.shop#br.owerssh.shop",
+            "host": "Br.owerssh.shop",
             "port": 80
         },
         "sorter": 21,
@@ -996,10 +992,9 @@
         "updated_at": "2023-11-24 23:18:58",
         "url_check_user": "http://209.14.70.161:5000/checkUser",
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
-  
+   
     },
     {
-     
         "auth": {
             "password": null,
             "username": null,
@@ -1037,7 +1032,7 @@
             "port": 80
         },
         "server": {
-            "host": "Br.owerssh.shop#br.owerssh.shop",
+            "host": "Br.owerssh.shop",
             "port": 80
         },
         "sorter": 19,
@@ -1052,9 +1047,164 @@
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
     },
     {
-      
-  
+        "auth": {
+            "password": "ssht",
+            "username": "ssht",
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#E25A3896",
+            "created_at": "2023-07-30 19:55:24",
+            "id": 5612,
+            "name": "😉😉    FREE - GRATIS ⬇⬇",
+            "sorter": 10,
+            "status": "ACTIVE",
+            "updated_at": "2023-10-24 19:07:29",
+            "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
+        },
+        "category_id": 5612,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[split]PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=mtls.sandbox.c6bank.com.br;www.c6bank.com.br;celular.c6bank.app;app.sandbox.c6bank.com.br;pre-onboarding-p.c6bank.app;mobile.hom.c6bank.app;creatorsupport.deezer.com;ubisoft.c6bank.com.br][lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: [host][lf]Upgrade: websocket[lf][lf]#ACL /index.html HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]#ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "created_at": "2023-10-19 17:06:44",
+        "description": "SALDO VALIDO",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "1.1.1.1"
+        },
+        "icon": "https://raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_VPN/page/null/IC/TIM_P.png",
+        "id": 145575,
+        "mode": "SSH_PROXY",
+        "name": "✅ TIM CLOUDFLARE [3]",
+        "proxy": {
+            "host": "104.18.99.70#104.16.239.166#172.64.154.143#104.19.239.25#104.17.64.225#mtls.sandbox.c6bank.com.br#104.16.51.111#pre-onboarding-p.c6bank.app#mtls.sandbox.c6bank.com.br#app.sandbox.c6bank.com.br",
+            "port": 80
+        },
+        "server": {
+            "host": "br.owerssh.shop#br.owerssh.shop#br.owerssh.shop",
+            "port": 80
+        },
+        "sorter": 16,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-11-22 15:28:28",
+        "url_check_user": null,
+        "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
     
+    #   servidor SSH FREE
+    },
+    {
+        "auth": {
+            "password": "ssht",
+            "username": "ssht",
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#E25A3896",
+            "created_at": "2023-07-30 19:55:24",
+            "id": 5612,
+            "name": "TESTE FREE - GRATIS ⬇⬇",
+            "sorter": 10,
+            "status": "ACTIVE",
+            "updated_at": "2023-10-24 19:07:29",
+            "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
+        },
+        "category_id": 5612,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET / HTTP/1.1[crlf]Host:[host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "created_at": "2023-11-08 22:46:50",
+        "description": "PLANO EASY",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "1.1.1.1"
+        },
+        "icon": "https://raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_VPN/page/null/IC/VIVO_P.png",
+        "id": 159166,
+        "mode": "SSH_PROXY",
+        "name": "✅ VIVO CLOUDFLARE [2]",
+        "proxy": {
+            "host": "104.24.10.16#pruma.vivo.com.br.cdn.cloudflare.net#meuvivofixo.vivo.com.br#portaljud2.vivo.com.br.cdn.cloudflare.net#eas6.gestaocontactcenter.vivo.com.br#web-aceitedigital.vivo.com.br#www.meuvivofixoapp.vivo.com.br.cdn.cloudflare.net#api.vivo-torpedoempresas.vivo.com.br#is.funinthe.cloud#web-aceitedigital.vivo.com.br#eas6.gestaocontactcenter.vivo.com.br#pruma.vivo.com.br#eas16.gestaocontactcenter.vivo.com.br#api.vivo-torpedoempresas.vivo.com.br#eas7.gestaocontactcenter.vivo.com.br#sigitm.vivo.com.br#meuvivoapp.vivo.com.br#aceitedigital.vivo.com.br.cdn.cloudflare.net#backoffice-equipamentos.vivo.com.br.cdn.cloudflare.net#personalize.vivo.com.br#portaljud2.vivo.com.br#vigia.vivo.com.br#web-aceitedigital.vivo.com.br.cdn.cloudflare.net#legado.vivo.com.br#assine.vivo.com.br.cdn.cloudflare.net#eas14.gestaocontactcenter.vivo.com.br#meuvivofixo.vivo.com.br.cdn.cloudflare.net#atendimentoonline.vivo.com.br#portaljud.vivo.com.br.cdn.cloudflare.net#eas20.gestaocontactcenter.vivo.com.br#eas3.gestaocontactcenter.vivo.com.br.cdn.cloudflare.net#vivovantagens.vivo.com.br.cdn.cloudflare.net#eas2.gestaocontactcenter.vivo.com.br#vivovalorizaempresas.vivo.com.br.cdn.cloudflare.net#eas10.gestaocontactcenter.vivo.com.br.cdn.cloudflare.net#eas4.gestaocontactcenter.vivo.com.br.cdn.cloudflare.net",
+            "port": 80
+        },
+        "server": {
+            "host": "br.owerssh.shop#br.owerssh.shop#br.owerssh.shop#br.owerssh.shop",
+            "port": 80
+        },
+        "sorter": 2,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-11-22 15:27:44",
+        "url_check_user": "http://209.14.70.161:5000/checkUser/checkUser/checkUser",
+        "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
+		
+		
+    },
+    {
+        "auth": {
+            "password": "",
+            "username": "",
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#E25A3896",
+            "created_at": "2023-07-30 19:55:24",
+            "id": 5612,
+            "name": "TESTE FREE - GRATIS ⬇⬇",
+            "sorter": 10,
+            "status": "ACTIVE",
+            "updated_at": "2023-10-24 19:07:29",
+            "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
+        },
+        "category_id": 5612,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET / HTTP/1.1[crlf]Host:[host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "created_at": "2023-11-08 22:46:50",
+        "description": "PLANO EASY",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "1.1.1.1"
+        },
+        "icon": "https://raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_VPN/page/null/IC/VIVO_P.png",
+        "id": 159166,
+        "mode": "SSH_PROXY",
+        "name": "✅ VIVO CLOUDFLARE [2]",
+        "proxy": {
+            "host": "104.24.10.16#pruma.vivo.com.br.cdn.cloudflare.net#meuvivofixo.vivo.com.br#portaljud2.vivo.com.br.cdn.cloudflare.net#eas6.gestaocontactcenter.vivo.com.br#web-aceitedigital.vivo.com.br#www.meuvivofixoapp.vivo.com.br.cdn.cloudflare.net#api.vivo-torpedoempresas.vivo.com.br#is.funinthe.cloud#web-aceitedigital.vivo.com.br#eas6.gestaocontactcenter.vivo.com.br#pruma.vivo.com.br#eas16.gestaocontactcenter.vivo.com.br#api.vivo-torpedoempresas.vivo.com.br#eas7.gestaocontactcenter.vivo.com.br#sigitm.vivo.com.br#meuvivoapp.vivo.com.br#aceitedigital.vivo.com.br.cdn.cloudflare.net#backoffice-equipamentos.vivo.com.br.cdn.cloudflare.net#personalize.vivo.com.br#portaljud2.vivo.com.br#vigia.vivo.com.br#web-aceitedigital.vivo.com.br.cdn.cloudflare.net#legado.vivo.com.br#assine.vivo.com.br.cdn.cloudflare.net#eas14.gestaocontactcenter.vivo.com.br#meuvivofixo.vivo.com.br.cdn.cloudflare.net#atendimentoonline.vivo.com.br#portaljud.vivo.com.br.cdn.cloudflare.net#eas20.gestaocontactcenter.vivo.com.br#eas3.gestaocontactcenter.vivo.com.br.cdn.cloudflare.net#vivovantagens.vivo.com.br.cdn.cloudflare.net#eas2.gestaocontactcenter.vivo.com.br#vivovalorizaempresas.vivo.com.br.cdn.cloudflare.net#eas10.gestaocontactcenter.vivo.com.br.cdn.cloudflare.net#eas4.gestaocontactcenter.vivo.com.br.cdn.cloudflare.net",
+            "port": 80
+        },
+        "server": {
+            "host": "br.owerssh.shop#br.owerssh.shop#br.owerssh.shop#br.owerssh.shop",
+            "port": 80
+        },
+        "sorter": 2,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-11-22 15:27:44",
+        "url_check_user": null,
+        "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
+		
+    },
+    {
         "auth": {
             "password": null,
             "username": null,
@@ -1092,7 +1242,7 @@
             "port": 80
         },
         "server": {
-            "host": "Br.owerssh.shop#br.owerssh.shop",
+            "host": "br.owerssh.shop#br.owerssh.shop#br.owerssh.shop#br.owerssh.shop",
             "port": 80
         },
         "sorter": -1,
@@ -1103,7 +1253,7 @@
             7200
         ],
         "updated_at": "2023-11-21 15:33:24",
-        "url_check_user": "http://144.22.198.190:5000",
+        "url_check_user": "http://209.14.70.161:5000/checkUser/checkUser",
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
    
     }
